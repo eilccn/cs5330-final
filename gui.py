@@ -3,7 +3,7 @@ import tkinter as tk
 from tkinter.filedialog import askopenfilename
 from tkinter.messagebox import showerror
 from PIL import Image, ImageTk
-from classification import FashionClassification
+from classify import FashionClassification
 
 # class variable with the 10 classes/labels names
 class_names = ['T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat', 
