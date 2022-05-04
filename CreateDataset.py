@@ -1,9 +1,5 @@
-"""
-This script reads the Category and Attribute Prediction Benchmark from the DeepFashion dataset and splits the data into train/val/test groups and saves the img_path,bbox vector,category vector,
-attribute vector for each image in all the 3 groups
-"""
 
-#taken from git hub to create data https://github.com/imshreyshah/Clothing-Category-Prediction-DeepFashion/blob/master/create-dataset.py
+
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 import os
@@ -15,7 +11,7 @@ class create_DeepFashion:
 
     def __init__(self, dataset_path):
 
-        # The constants
+
         img_folder_name = "dataset/img"
         eval_folder_name = "dataset/Eval"
         anno_folder_name = "dataset/Anno"
