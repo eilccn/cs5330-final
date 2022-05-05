@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Dec 17 12:41:44 2018
-
-@author: Theodora Panou
-"""
-
 import tensorflow as tf 
 from tensorflow import keras
 import time

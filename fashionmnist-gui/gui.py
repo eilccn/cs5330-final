@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Jan 11 17:29:47 2019
-
-@author: Theodora Panou
-"""
-
 import numpy as np
 import tkinter as tk
 from tkinter.filedialog import askopenfilename
@@ -113,7 +107,7 @@ topLabel1.pack()
 topLabel2.pack()
 
 # Bottom box for predictions
-botLabel = tk.Label(botFrame, text="Label Y", bg="white", fg="black",
+botLabel = tk.Label(botFrame, text="Label Y", bg="white", fg="blue",
                     font="Times 13", borderwidth=2, relief="groove", padx=80)
 botLabel.pack()
 
@@ -125,7 +119,7 @@ imgLabel.pack(side=tk.LEFT, padx=60, pady=10)
 
 # Button to upload image
 btn = tk.Button(midRFrame, text="select image file", command=browseFiles, 
-                fg="white", bg="black", font="Roboto 11 bold", relief="solid")
+                fg="white", bg="blue", font="Roboto 11 bold", relief="solid")
 btn.pack(fill=tk.BOTH, expand=True, padx=80, pady=5)
 
 # Min window size
