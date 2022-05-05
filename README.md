@@ -6,7 +6,7 @@
 
 ### Presentation URL
 
-https://drive.google.com/drive/folders/1I2_YDs6RyrWwM_IZOTOGy-zk3hG6ZEKa?usp=sharing
+Report and video presentation: https://drive.google.com/drive/folders/1I2_YDs6RyrWwM_IZOTOGy-zk3hG6ZEKa?usp=sharing
 
 PPT: https://docs.google.com/presentation/d/1DEpYsqdNCDjuTGwOd-7gu-TqD2I_w9j84e-UrGocR9M/edit#slide=id.g12786cc3385_0_66
 
